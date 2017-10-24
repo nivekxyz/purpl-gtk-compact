@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=purpl-gtk-compact
+Comment=A very purple compact Gnome theme.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=purpl-gtk-compact
+MetacityTheme=purpl-gtk-compact
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
